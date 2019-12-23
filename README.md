@@ -3,3 +3,7 @@ Script ini merupakan bagian kecil dari Watershed Transform, yaitu Euclidean Dist
 Berfungsi untuk mengubah citra biner ke citra grayscale. Input merupakan array 2 dimensi yang berisi nilai pixel biner.
 
 ![screenshot](ss_eucledian.png)
+
+## Prerequisites
+- Python 3
+- Python library: matplotlib & numpy
